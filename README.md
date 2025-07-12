@@ -30,12 +30,6 @@ A browser-based JavaScript automation script to scrape **Google Hacking Database
 
 ---
 
-## 🎥 Demo Video
-
-<video src="https://github.com/Ca3s4rX/videos/raw/refs/heads/main/ghdb-dorks-scrapper.mp4?raw" controls width="600"></video>
-
----
-
 ## 📁 Sample Output Metadata
 
 ```json
@@ -54,7 +48,6 @@ A browser-based JavaScript automation script to scrape **Google Hacking Database
   ]
 }
 ```
-
 ---
 
 ## 👨‍💻 Author
