@@ -30,7 +30,7 @@ A browser-based JavaScript automation script to scrape **Google Hacking Database
 
 ---
 
-## 📁 Sample Output Metadata
+## 📁 Sample Output
 
 ```json
 {
