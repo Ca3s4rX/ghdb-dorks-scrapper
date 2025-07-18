@@ -6,7 +6,7 @@ A browser-based JavaScript automation script to scrape **Google Hacking Database
 
 ## 📸 Screenshot
 
-![Demo Screenshot](https://raw.githubusercontent.com/Ca3s4rX/images/refs/heads/main/ghdb-dorks-scrapper.png)
+![Demo Screenshot](./ghdb-dorks-scrapper.png)
 
 ---
 
